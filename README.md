@@ -1,52 +1,75 @@
-Visualizing-Housing-Market-Trends-Using-Tableau
+📊 Visualizing Housing Market Trends Using Tableau
 Exploring Sale Prices and Features Through Interactive Visualizations
-
 📌 Project Overview
-This project aims to provide clear and interactive insights into housing market patterns using Tableau. By analyzing property features such as age, renovation history, and structural details, the study identifies key factors influencing sale prices and buyer preferences.
+This project provides an interactive analysis of housing market trends using Tableau. By exploring features like house age, renovation history, structural details (e.g., bathrooms, bedrooms, floors), and sale prices, the dashboards offer meaningful insights into buyer preferences and market dynamics.
 
-The visual dashboards are designed for real estate professionals, analysts, and decision-makers, enabling them to explore the data, uncover hidden patterns, and make informed market strategies.
+Designed for real estate professionals, analysts, and decision-makers, the project enables users to explore data intuitively, uncover hidden trends, and support strategic market decisions through clear, visual storytelling.
 
-Through a combination of data cleaning, transformation, and visualization, the project delivers an engaging and easy-to-navigate analytical experience.
+Data cleaning and transformation were carried out using Tableau Prep, and the final dashboards were built in Tableau Desktop/Public, with version control handled via GitHub.
 
-🎯 Objectives
-Analyze how renovations impact house sale prices.
-Examine house age distributions based on bathrooms, bedrooms, and floors.
-Provide a data-driven view of the housing market to support decision-making.
-Visualize housing trends in an interactive, accessible format.
+🎯 Project Objectives
+Analyze the impact of renovations on housing sale prices.
+
+Examine the distribution of house age by key property features.
+
+Offer an interactive and accessible visual summary of housing trends.
+
+Support data-driven decision-making in the real estate sector.
+
 🔍 Key Scenarios & Visualizations
 ✅ Scenario 1: Overall Data Overview
-Displays the count of transformed housing data records.
-Shows average sale price and total basement area (sq. ft.).
-Offers a quick understanding of the dataset scale and key metrics.
+Displays total records, average sale price, and total basement area.
+
+Provides a quick summary of dataset scale and key indicators.
+
 🛠️ Scenario 2: Total Sales by Years Since Renovation
-Histogram of total sales grouped by years since renovation.
-Reveals how recent renovations influence house sale prices.
-🏘️ Scenario 3: Distribution of House Age by Renovation Status
-Pie chart of house age distribution based on renovation status.
-Helps assess the age of inventory and prevalence of renovations.
+Histogram grouping total sales by years since last renovation.
+
+Highlights how recent renovations affect pricing and sales.
+
+🏘️ Scenario 3: House Age Distribution by Renovation Status
+Pie chart showing house age based on whether properties were renovated.
+
+Offers insights into inventory age and renovation trends.
+
 🛁 Scenario 4: House Age by Bathrooms, Bedrooms, and Floors
-Grouped bar chart categorizing house age by key features.
-Identifies patterns in buyer preferences and house characteristics over time.
-🛠 Tools Used
-Tableau Public / Tableau Desktop
-Tableau Prep (for initial data preparation)
-GitHub – Version control and project hosting
-👥 Team Members
-JASMIN SAHU
+Grouped bar chart comparing house age with structural features.
 
-Data Collection· Data Preparation · Performance Testing ·Project Design ·* Visualization for Scenario 1 · Project Executable Files *
-SHRADDHA BHAGAT
+Identifies patterns in buyer preferences based on house features.
 
-Requirement Analysis · Project Executable Files · Documentation & Demo · Visualization for Scenario 2 & 3 · Dash Board Creation · Story Devlopment*
-AISHA PATEL
+🛠 Tools & Technologies
+Tableau Public / Desktop – Data visualization and dashboard creation
 
-Ideation Phase· Project Planning Phase · Visualization for Scenario 4 *
+Tableau Prep – Data cleaning and transformation
+
+GitHub – Version control, collaboration, and project hosting
+
+👥 Team Members & Contributions
+Jasmin Sahu
+
+Data Collection, Cleaning, Performance Testing, Visualization (Scenario 1), Project Design
+
+Shraddha Bhagat
+
+Requirement Analysis, Documentation, Visualizations (Scenarios 2 & 3), Dashboard Design, Story Development
+
+Aisha Patel
+
+Ideation, Project Planning, Visualization (Scenario 4)
+
 🚀 Future Enhancements
-Add predictive analytics for future price trends.
-Integrate external datasets (e.g., crime rate, proximity to amenities).
-Expand to multiple cities or time-based trends for broader analysis.
+Integrate predictive analytics for forecasting housing prices
+
+Add external datasets (e.g., crime rates, school zones, amenities)
+
+Expand the scope to include multiple cities or longitudinal analysis over time
+
 📞 Contact & Connect
-Email: [it23.jasmin.sahu@kccemsr.edu.in]
-Email: [it23.shraddha.bhagat@kccemsr.edu.in]
-Email: [it23.aisha.patel@kccemsr.edu.in]
+📧 Jasmin Sahu – [it23.jasmin.sahu@kccemsr.edu.in]
+
+📧 Shraddha Bhagat – [it23.shraddha.bhagat@kccemsr.edu.in]
+
+📧 Aisha Patel – [it23.aisha.patel@kccemsr.edu.in]
+
+
 
